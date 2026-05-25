@@ -104,7 +104,7 @@ export default function PersonalTutoringServicePage() {
 
             <div className="flex gap-4">
 
-              <a href="mailto:yoyoman12379@gmail.com?subject=Tutoring Request">
+              <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yoyoman12379@gmail.com">
 
                 <button className="inline-flex items-center rounded-2xl px-6 py-4 bg-slate-900 text-white hover:bg-slate-800 transition-colors">
 
@@ -177,7 +177,7 @@ export default function PersonalTutoringServicePage() {
             </div>
 
             <a
-              href="mailto:yoyoman12379@gmail.com"
+              href="https://mail.google.com/mail/?view=cm&fs=1&to=yoyoman12379@gmail.com"
               className="mt-8 inline-flex items-center gap-3 text-slate-700 hover:text-black"
             >
 
