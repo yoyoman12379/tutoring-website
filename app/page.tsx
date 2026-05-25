@@ -100,6 +100,7 @@ export default function PersonalTutoringServicePage() {
             <p className="text-lg text-slate-600 leading-relaxed mb-8">
               Specialized in Signals & Systems, Communications,
               Engineering Mathematics, Probability, and Programming.
+              Please feel free to contact me for personalized tutoring sessions
             </p>
 
             <div className="flex gap-4">
